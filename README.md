@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Júlia 👋
 
-<!--
-**JuliaBP2000/JuliaBP2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Vue.js | React | TypeScript
 
-Here are some ideas to get you started:
+Frontend developer focused on building scalable, accessible and
+user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work mainly with Vue.js, React and TypeScript, with experience
+building production web applications and financial products.
+
+### 🛠️ Tech Stack
+
+- TypeScript
+- JavaScript
+- Vue.js
+- React
+- Next.js
+- HTML & CSS
+- Sass / SCSS
+- Storybook
+- Vitest / Jest
+- Git
+- REST APIs
+
+### 🚀 Featured Projects
+
+🔹 Fintech Trading Dashboard  
+Financial dashboard built with React, Next.js and TypeScript.
+
+🔹 Aurora Design System  
+Reusable React component library documented with Storybook.
+
+🔹 Web Development Projects  
+Vue.js applications and frontend experiments.
+
+### 📫 Connect with me
+
+[LinkedIn](...)
+[GitHub](...)
