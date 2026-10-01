@@ -110,4 +110,164 @@ A reusable React component library exploring design systems, component architect
 
 <br />
 
-<img src="https:/
+<img src="https://skillicons.dev/icons?i=ts,js,vue,react,nextjs,html,css,sass" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=git,vite,storybook,figma" />
+
+<br /><br />
+
+<sub>Technologies I use, explore and continue to learn.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## `04` — currently
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌱 learning
+
+**Angular**
+
+Exploring a new frontend ecosystem and expanding my toolkit beyond my main stack.
+
+<br />
+
+**Frontend Architecture**
+
+Going deeper into scalable and maintainable application design.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✨ exploring
+
+**Design Systems**
+
+Building reusable UI foundations and thinking about consistency at scale.
+
+<br />
+
+**Korean 🇰🇷**
+
+Learning the language and exploring Korean culture.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05` — things I care about
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ♡
+
+**Clean UI**
+
+</td>
+
+<td align="center" width="25%">
+
+### ✦
+
+**Reusable Code**
+
+</td>
+
+<td align="center" width="25%">
+
+### ◇
+
+**Great UX**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⟡
+
+**Continuous Learning**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+## `06` — github activity
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=juliabp2000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFF9FB&title_color=8E6475&text_color=5C5157&icon_color=C98FA8" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabp2000&layout=compact&hide_border=true&langs_count=6&bg_color=FFF9FB&title_color=8E6475&text_color=5C5157" height="165" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliabp2000&hide_border=true&background=FFF9FB&ring=C98FA8&fire=C98FA8&currStreakLabel=8E6475&sideLabels=8E6475&dates=8C8085&currStreakNum=5C5157&sideNums=5C5157" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` — let's connect
+
+<br />
+
+I'm always happy to connect with developers, designers, recruiters
+and people building interesting things.
+
+<br />
+
+<a href="https://www.linkedin.com/in/júlia-boesing-ponticelli-9428b0101/">
+<img src="https://img.shields.io/badge/LINKEDIN-3B3035?style=for-the-badge&logo=linkedin&logoColor=F7DDE8" />
+</a>
+
+ 
+
+<a href="https://github.com/juliabp2000">
+<img src="https://img.shields.io/badge/GITHUB-3B3035?style=for-the-badge&logo=github&logoColor=E7DDF4" />
+</a>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=F7DDE8" width="100%" />
+
+<sub>
+
+**built with curiosity, coffee & a lot of TypeScript.**
+
+♡ © 2026 Júlia
+
+</sub>
+
+</div>
